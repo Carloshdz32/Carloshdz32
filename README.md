@@ -22,7 +22,7 @@ I am studying systems engineering at Mariano Galvez University in Guatemala.
 I know a bit of C++, and at university, I am currently learning Java. However, I want to learn Python and SQL for data science and data visualization purposes.
 
 Tools:
- ![NetBeans-Logo wine](https://github.com/Carloshdz32/Carloshdz32/assets/143835606/b39144e9-bc81-4c5c-b791-480280590b8a) ![en-visual-studio-code-logo](https://github.com/Carloshdz32/Carloshdz32/assets/143835606/70f87a1a-7966-4cb5-b599-7e3da25c25a4)
+ ![nblogo96x96](https://github.com/Carloshdz32/Carloshdz32/assets/143835606/7171f7a3-e428-46dc-9e61-0eb27f6d8aa4) ![file_type_vscode_icon_130084](https://github.com/Carloshdz32/Carloshdz32/assets/143835606/1d929d16-083d-4fc2-8dd1-3e3acdc20857)
 
 
 
